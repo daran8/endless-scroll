@@ -1,0 +1,23 @@
+{
+  "name": "endless-scroll",
+  "version": "1.0.0",
+  "description": "This package enables endless(infinite) scroll for your page.",
+  "main": "infiniteScroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daran8/endless-scroll.git"
+  },
+  "keywords": [
+    "infinite-scroll",
+    "endless-scroll"
+  ],
+  "author": "daran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daran8/endless-scroll/issues"
+  },
+  "homepage": "https://github.com/daran8/endless-scroll#readme"
+}
